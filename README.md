@@ -1,6 +1,7 @@
 # fds-opinion-essay
 
 # Data Privacy: the need for Education.
+Hosted on Swarm: [Here](https://gateway.ethswarm.org/access/e9e935cd3f1e447e3f1f1ad4b395a781b5e069d0623365164fd72d0353137ef3)
 
 ## Introduction
 The goals highlighted by the Fair data protocol are essential in building the future. This future prioritizes data sovereignty, freedom of the individual, and cultivating a fair data economy. That future is necessary. It is essential because the current state of affairs marks data exploitation. 
